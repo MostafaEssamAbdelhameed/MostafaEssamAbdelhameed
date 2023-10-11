@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Essam</h1>
-<h3 align="center">DDV Enthusiasm , Seeking an opportunity to work with a team of experienced designers.</h3>
+<h3 align="center">DDV Enthusiast , Seeking an opportunity to work with a team of experienced designers.</h3>
 
 - 🌱 I’m currently learning **Digital Design and Verification**
 
